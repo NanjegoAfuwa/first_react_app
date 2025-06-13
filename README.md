@@ -1,3 +1,28 @@
+
+# answers to the questions
+
+# no.1  'a'
+# JSX is an syntax that allows html to be written in javascript
+
+# 'b'
+# JSX is used because it allows html in Javascript
+# It is also used because wrap multiple elements in one parent
+# allows javascript expression in html using {}
+
+# no.2
+# Props are inputs to components while states uses State hook to manages local state
+
+# no.3
+# Hooks are functions that allows to use state and other features without writing a class
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +93,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+

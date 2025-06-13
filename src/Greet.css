@@ -1,0 +1,9 @@
+.greeting_cards{
+    border: 4px solid rebeccapurple;
+    padding: 1rem;
+    width:40rem ;
+    margin: auto;
+    margin-bottom: 3rem;
+    font-style: italic;
+    background-color: rgb(169, 218, 213);
+}
